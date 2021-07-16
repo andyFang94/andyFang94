@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![markdown](https://avatars.githubusercontent.com/u/54627989?s=60&v=4)
+![markdown](https://avatars.githubusercontent.com/u/54627989?v=4)
 
 <!--
 **andyFang94/andyFang94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
