@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Image text](https://github.com/andyFang94/andyFang94/blob/develop/a41707380da308b43e7cfb957c190756.jpg)
+
 <!--
 **andyFang94/andyFang94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
