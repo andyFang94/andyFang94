@@ -2,6 +2,7 @@
 
 ![markdown](https://avatars.githubusercontent.com/u/54627989?v=4)
 
+![andyfang94](https://github-readme-stats.vercel.app/api?username=andyfang94&show_icons=true&theme=radical)
 <!--
 **andyFang94/andyFang94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
