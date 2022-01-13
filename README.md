@@ -2,7 +2,7 @@
 
 ![andyfang94](https://github-readme-stats.vercel.app/api?username=andyfang94&show_icons=true&theme=radical)
 
-![markdown](https://avatars.githubusercontent.com/u/54627989?v=4)
+<!-- ![markdown](https://avatars.githubusercontent.com/u/54627989?v=4) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyfang94&repo=react-antd-cron)](https://github.com/andyFang94/react-antd-cron)
 
