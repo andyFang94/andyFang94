@@ -4,7 +4,8 @@
 
 <!-- ![markdown](https://avatars.githubusercontent.com/u/54627989?v=4) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyfang94&repo=react-antd-cron)](https://github.com/andyFang94/react-antd-cron)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyfang94&repo=react-antd-cron)](https://github.com/andyFang94/react-antd-cron)        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyfang94&repo=vue-ant-watermark)](https://github.com/andyFang94/vue-ant-watermark)
+
 
 <!--
 **andyFang94/andyFang94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
